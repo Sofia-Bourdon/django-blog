@@ -31,10 +31,7 @@ SECRET_KEY = '0my1secret2key3dj@ngo4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    '8000-sofiabourdon-djangoblog-qvgv7gkfi4n.ws-eu99.gitpod.io',
-    'django-blog-site.herokuapp.com', 'localhost',
-    ]
+ALLOWED_HOSTS = ['django-blog-site.herokuapp.com', 'localhost',]
 
 
 
